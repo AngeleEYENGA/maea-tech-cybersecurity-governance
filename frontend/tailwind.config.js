@@ -11,7 +11,7 @@ module.exports = {
         success: '#16A34A',
         warning: '#EA580C',
         danger: '#DC2626',
-      },
+      }
     },
   },
   plugins: [],
